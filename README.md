@@ -13,6 +13,6 @@ I mess around with a bit of everything, and a lot of it ends up here. Some of it
 
 ### About Me
 
-- I build solo, and I care about how things look as much as how they work
+- I build solo **(open for collab ofc)**, and I care about how things look as much as how they work
 - I like making stuff that's actually useful
 - Always working on something new
