@@ -1,4 +1,4 @@
-## Hey there 👋
+Hey there 👋
 
 I'm Itz_Ajx, a full-stack dev who likes building all kinds of stuff.
 I mess around with a bit of everything, and a lot of it ends up here. Some of it's open source, some are experiments, some are things I actually use.
