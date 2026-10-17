@@ -8,7 +8,7 @@ I mess around with a bit of everything, and a lot of it ends up here. Some of it
 ### Tools & Tech
 
 - React, TypeScript, Tailwind
-- Node.js, Firebase, Supabase
+- Node.js, Firebase, MySQL, PostgreSQL
 - Unity, C#
 
 ---
