@@ -13,7 +13,7 @@ I mess around with a bit of everything, and a lot of it ends up here. Some of it
 
 ---
 
-### A Bit About Me
+### About Me
 
 - I build solo, and I care about how things look as much as how they work
 - I like making stuff that's actually useful
